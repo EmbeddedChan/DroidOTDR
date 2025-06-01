@@ -1,3 +1,4 @@
+
 # OTDR Droid
 
 **OTDR Droid** is an Android application developed for analyzing and visualizing OTDR (Optical Time Domain Reflectometer) trace data. It is currently under active development and available for early testing.
@@ -19,9 +20,20 @@ More features will be added in future releases.
 
 ## 📸 Screenshots
 
-| ![Screenshot 1](images/otdr-droid1.jpg) | ![Screenshot 2](images/otdr-droid2.jpg) | ![Screenshot 3](images/otdr-droid3.jpg) |
-|:--:|:--:|:--:|
-| Main View | Event List | Parameters View |
+> Images are vertically arranged for better visibility.
+
+#### 🖼️ Main View  
+![Main View](images/otdr-droid1.jpg)
+
+---
+
+#### 🧪 Measurement View  
+![Measurement View](images/otdr-droid2.jpg)
+
+---
+
+#### ⚙️ Parameters View  
+![Parameters View](images/otdr-droid3.jpg)
 
 ---
 
@@ -29,18 +41,6 @@ More features will be added in future releases.
 
 You can download the latest version of the app below:
 
-👉 **[Download OTDR Droid v0.1](apk/otdr-droid%20v0.1.apk)**
+👉 [Download OTDR Droid v0.1](https://github.com/chanalex2024/otdr-droid/releases/download/v0.1/otdr-droid%20v0.1.apk)
 
 > ⚠️ This is an early version. Please use for testing purposes only. Feedback and suggestions are welcome!
-
----
-
-## 💬 Contact
-
-If you have any questions or would like to contribute, feel free to open an issue or reach out via GitHub.
-
----
-
-## 📄 License
-
-This project is currently closed-source. The APK is available for testing and evaluation only.
