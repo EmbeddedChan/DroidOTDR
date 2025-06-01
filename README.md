@@ -1,4 +1,3 @@
-
 # OTDR Droid
 
 **OTDR Droid** is an Android application developed for analyzing and visualizing OTDR (Optical Time Domain Reflectometer) trace data. It is currently under active development and available for early testing.
@@ -47,4 +46,8 @@ You can download the latest version of the app below:
 
 This application does not request any permissions and does not collect, store, or share any user data.
 
-- *This app is free and contains no ads. If you enjoy using it, you can support me by buying me a coffee!*
+## ☕ Support
+
+If you find this project helpful, you can [buy me a coffee](https://www.paypal.me/didadi2024) via PayPal.
+
+Thank you! 🙏
