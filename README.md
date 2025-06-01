@@ -46,3 +46,5 @@ You can download the latest version of the app below:
 > ⚠️ This is an early version. Please use for testing purposes only. Feedback and suggestions are welcome!
 
 This application does not request any permissions and does not collect, store, or share any user data.
+
+- *This app is free and contains no ads. If you enjoy using it, you can support me by buying me a coffee!*
