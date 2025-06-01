@@ -45,4 +45,4 @@ You can download the latest version of the app below:
 
 > ⚠️ This is an early version. Please use for testing purposes only. Feedback and suggestions are welcome!
 
-his application does not request any permissions and does not collect, store, or share any user data.
+This application does not request any permissions and does not collect, store, or share any user data.
