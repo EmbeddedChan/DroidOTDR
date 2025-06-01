@@ -44,3 +44,5 @@ You can download the latest version of the app below:
 👉 [Download OTDR Droid v0.1](https://github.com/chanalex2024/otdr-droid/releases/download/V0.1/otdr-droid.v0.1.apk)
 
 > ⚠️ This is an early version. Please use for testing purposes only. Feedback and suggestions are welcome!
+
+his application does not request any permissions and does not collect, store, or share any user data.
