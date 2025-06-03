@@ -52,3 +52,7 @@ This application does not request any permissions and does not collect, store, o
 If you find this project helpful, you can [buy me a coffee](https://www.paypal.me/didadi2024) via PayPal.
 
 Thank you! 🙏
+
+## Contact
+ 
+If you have questions, suggestions, or feedback, feel free to contact: 📧 **lidii2584@gmail.com**
