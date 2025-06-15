@@ -51,6 +51,11 @@ This application does not request any permissions and does not collect, store, o
 
 If you find this app helpful, you can [buy me a coffee](https://www.paypal.me/didadi2024) via PayPal.
 
+TronLink:
+TCjJuPGA2kCLcW1Bn4nPyitPNvjuEam1W4
+Bluewallet:
+bc1qnandmddtn7c5vyrcdc8khkphjvtfwp92pm4xl4
+
 Thank you! 🙏
 
 ## Contact
