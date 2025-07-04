@@ -1,4 +1,4 @@
-# DroudOTDR
+# DroidOTDR
 
 **DroidOTDR** is an Android application developed for analyzing and visualizing OTDR (Optical Time Domain Reflectometer) trace data. It is currently under active development and available for early testing.
 
