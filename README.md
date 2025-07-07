@@ -40,9 +40,7 @@ More features will be added in future releases.
 
 You can download the latest version of the app below:
 
-👉 [Download OTDR-Droid v0.1](https://github.com/chanalex2024/otdr-droid/releases/download/V0.1/otdr-droid.v0.1.apk)
-
-https://drive.google.com/file/d/1fWvtcYvmGIrEjPKKkWDBaw26bBjwsEHB/view?usp=drivesdk
+👉 [Download DroidOTDR10.apk](https://github.com/EmbeddedChan/DroidOTDR/raw/main/apk/DroidOTDR10.apk)
 
 
 This application does not request any permissions and does not collect, store, or share any user data.
