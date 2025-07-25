@@ -36,13 +36,13 @@ More features will be added in future releases.
 
 ---
 
-#### 🧪 Measurement View  
-![Measurement View](imagesDroid2_OTDR2.jpg)
+#### 🧪 PDF Report View  
+![PDF Report View](images/Droid2_OTDR3.jpg)
 
 ---
 
 #### ⚙️ Parameters View  
-![Parameters View](images/Droid2_OTDR3.jpg)
+![Parameters View](images/Droid2_OTDR2.jpg)
 
 ---
 
