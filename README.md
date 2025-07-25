@@ -10,7 +10,7 @@ Improved UI and fixed several bugs in version 1.0
 
 Mainly used for analyzing fiber optic networks on mobile.
 
-**DroidOTDR** is an Android application developed for analyzing and visualizing OTDR (Optical Time Domain Reflectometer) trace data. It is currently under active development and available for early testing.
+**DroidOTDR** is an Android application developed for analyzing and visualizing OTDR (Optical Time Domain Reflectometer) trace data.
 
 > 📱 Developed by **Chan**, a former hardware engineer now exploring Android development.
 
