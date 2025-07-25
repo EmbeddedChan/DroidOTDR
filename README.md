@@ -1,4 +1,4 @@
-u77# DroidOTDR
+# DroidOTDR
 I just released version 2.0.0 of my free Android tool for viewing OTDR trace files.
 It now supports:
 
@@ -6,7 +6,7 @@ It now supports:
 
 📄 PDF report export for sharing results
 
-Improved UI and fixed several bugs
+Improved UI and fixed several bugs in version 1.0
 
 Mainly used for analyzing fiber optic networks on mobile.
 
@@ -49,6 +49,8 @@ More features will be added in future releases.
 You can download the latest version of the app below:
 
 👉 [Download DroidOTDR20.apk](https://github.com/EmbeddedChan/DroidOTDR/raw/main/apk/DroidOTDR20.apk)
+
+https://www.dropbox.com/scl/fi/iknozo0bte24v4iku08nz/DroidOTDR20.apk?rlkey=nr07m8xur18h4qfwf9pniihe3&st=ny80bis9&dl=0
 
 https://drive.google.com/file/d/1jp4zEewlvG8fUPxsOfPrQD4b-LveBVK3/view?usp=drivesdk
 
