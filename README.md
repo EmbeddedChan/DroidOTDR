@@ -1,4 +1,14 @@
 # DroidOTDR
+I just released version 2.0.0 of my free Android tool for viewing OTDR trace files.
+It now supports:
+
+📁 .sor and .msor formats (Telcordia SR-4731)
+
+📄 PDF report export for sharing results
+
+Improved UI and fixed several bugs
+
+Mainly used for analyzing fiber optic networks on mobile.
 
 **DroidOTDR** is an Android application developed for analyzing and visualizing OTDR (Optical Time Domain Reflectometer) trace data. It is currently under active development and available for early testing.
 
@@ -22,17 +32,17 @@ More features will be added in future releases.
 > Images are vertically arranged for better visibility.
 
 #### 🖼️ Main View  
-![Main View](images/otdr-droid1.jpg)
+![Main View](images/Droid2_OTDR1.jpg)
 
 ---
 
 #### 🧪 Measurement View  
-![Measurement View](images/otdr-droid2.jpg)
+![Measurement View](imagesDroid2_OTDR2.jpg)
 
 ---
 
 #### ⚙️ Parameters View  
-![Parameters View](images/otdr-droid3.jpg)
+![Parameters View](images/Droid2_OTDR3.jpg)
 
 ---
 
@@ -40,7 +50,7 @@ More features will be added in future releases.
 
 You can download the latest version of the app below:
 
-👉 [Download DroidOTDR10.apk](https://github.com/EmbeddedChan/DroidOTDR/raw/main/apk/DroidOTDR10.apk)
+👉 [Download DroidOTDR20.apk](https://github.com/EmbeddedChan/DroidOTDR/raw/main/apk/DroidOTDR20.apk)
 
 
 This application does not request any permissions and does not collect, store, or share any user data.
