@@ -29,8 +29,6 @@ More features will be added in future releases.
 
 ## 📸 Screenshots
 
-> Images are vertically arranged for better visibility.
-
 #### 🖼️ Main View  
 ![Main View](images/Droid2_OTDR1.jpg)
 
@@ -51,6 +49,8 @@ More features will be added in future releases.
 You can download the latest version of the app below:
 
 👉 [Download DroidOTDR20.apk](https://github.com/EmbeddedChan/DroidOTDR/raw/main/apk/DroidOTDR20.apk)
+
+https://drive.google.com/file/d/1jp4zEewlvG8fUPxsOfPrQD4b-LveBVK3/view?usp=drivesdk
 
 
 This application does not request any permissions and does not collect, store, or share any user data.
