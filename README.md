@@ -48,7 +48,7 @@ More features will be added in future releases.
 
 You can download the latest version of the app below:
 
-👉 [Download DroidOTDR20.apk](https://github.com/EmbeddedChan/DroidOTDR/raw/main/apk/DroidOTDR20.apk)
+👉 [Download DroidOTDR21.apk](https://github.com/EmbeddedChan/DroidOTDR/raw/main/apk/DroidOTDR21.apk)
 
 https://www.dropbox.com/scl/fi/iknozo0bte24v4iku08nz/DroidOTDR20.apk?rlkey=nr07m8xur18h4qfwf9pniihe3&st=ny80bis9&dl=0
 
