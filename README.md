@@ -1,5 +1,5 @@
 # DroidOTDR
-I just released version 2.0.0 of my free Android tool for viewing OTDR trace files.
+I just released version 2.2.0 of my free Android tool for viewing OTDR trace files.
 It now supports:
 
 📁 .sor and .msor formats (Telcordia SR-4731)
