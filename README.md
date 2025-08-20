@@ -48,11 +48,9 @@ More features will be added in future releases.
 
 You can download the latest version of the app below:
 
-👉 [Download DroidOTDR21.apk](https://github.com/EmbeddedChan/DroidOTDR/raw/main/apk/DroidOTDR21.apk)
+👉 [Download DroidOTDR22.apk](https://github.com/EmbeddedChan/DroidOTDR/raw/main/apk/DroidOTDR22.apk)
 
-https://www.dropbox.com/scl/fi/iknozo0bte24v4iku08nz/DroidOTDR20.apk?rlkey=nr07m8xur18h4qfwf9pniihe3&st=ny80bis9&dl=0
 
-https://drive.google.com/file/d/1jp4zEewlvG8fUPxsOfPrQD4b-LveBVK3/view?usp=drivesdk
 
 
 This application does not request any permissions and does not collect, store, or share any user data.
