@@ -1,5 +1,15 @@
 # DroidOTDR
-I just released version 2.2.0 of my free Android tool for viewing OTDR trace files.
+I just released version 2.3.0 of my free Android tool for viewing OTDR trace files.
+
+The DroidOTDR ToolKit currently includes the following tools:
+
+1. Fiber Optic Cable Color Code Tool(Work in progress)
+2. Optical Fiber Link Optical Power Budget Tool
+3. Power Unit Converter and Splitter Loss Calculator.
+4. DWDM Channel Lookup Tool
+
+All features work offline and do not require an internet connection.
+
 It now supports:
 
 📁 .sor and .msor formats (Telcordia SR-4731)
@@ -12,7 +22,7 @@ Mainly used for analyzing fiber optic networks on mobile.
 
 **DroidOTDR** is an Android application developed for analyzing and visualizing OTDR (Optical Time Domain Reflectometer) trace data.
 
-> 📱 Developed by **Chan**, a former hardware engineer now exploring Android development.
+> 📱 Developed by **Chan**, a hardware engineer now exploring Android development.
 
 ---
 
