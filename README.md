@@ -1,4 +1,4 @@
-# DroidOTDR
+9# DroidOTDR
 DroidOTDR DroidOTDR is an optical communication toolbox.
 
 The main function is analyzing and visualizing OTDR (Optical Time Domain Reflectometer) trace data.
@@ -53,6 +53,8 @@ This application does not request any permissions and does not collect, store, o
 ## ☕ Support
 
 If you find this app helpful, you can buy me a coffee.
+
+[PayPal.me/didadi2024](https://www.paypal.me/didadi2024)
 
 TronLink:
 TCjJuPGA2kCLcW1Bn4nPyitPNvjuEam1W4
