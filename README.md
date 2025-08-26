@@ -13,14 +13,6 @@ The DroidOTDR ToolKit currently includes the following tools:
 
 All features work offline and do not require an internet connection.
 
-It now supports:
-
-📁 .sor and .msor formats (Telcordia SR-4731)
-
-📄 PDF report export for sharing results
-
-Improved UI and fixed several bugs in version 1.
-
 ## 🔧 Features
 
 - Load and parse .sor and .msor files based on Telcordia SR-4731 standard
