@@ -1,6 +1,5 @@
 # DroidOTDR
-
-DroidOTDR DroidOTDR is an optical communication toolbox.
+DroidOTDR is an optical communication toolbox.
 
 The main function is analyzing and visualizing OTDR (Optical Time Domain Reflectometer) trace data.
 It also integrates a toolbox, which currently includes the following optical communication tools, with more features under development.
