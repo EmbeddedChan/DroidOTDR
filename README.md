@@ -45,27 +45,12 @@ You can download the latest version of the app below:
 
 👉 [Download DroidOTDR23.apk](https://github.com/EmbeddedChan/DroidOTDR/raw/main/apk/DroidOTDR23.apk)
 
-
-
-
 This application does not request any permissions and does not collect, store, or share any user data.
+
 
 ## ☕ Support
 
-If you find this app helpful, you can buy me a coffee.
-
-[PayPal.me/didadi2024](https://www.paypal.me/didadi2024)
-
-TronLink:
-TCjJuPGA2kCLcW1Bn4nPyitPNvjuEam1W4
-
-Bluewallet:
-bc1qnandmddtn7c5vyrcdc8khkphjvtfwp92pm4xl4
-
-MetaMask:
-0xCed80d906310D26A6a4152708B4EFf14718a6100
-
-Thank you! 🙏
+If you’d like to support this project, please check out the [DONATE.md](DONATE.md) page. 🙏
 
 ## Contact
  
