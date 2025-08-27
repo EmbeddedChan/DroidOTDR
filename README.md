@@ -41,7 +41,7 @@ All features work offline and do not require an internet connection.
 
 ![FiberCC View](images/Droid2_OTDR2.jpg)
 
-![LinkBudget View](images/Droid2_OTDR2.jpg)
+![LinkBudget View](images/Screenshot_20250814_182056_DroidOTDR.jpg)
 
 ![Unit Converter View](images/Droid2_OTDR2.jpg)
 ![DWDM Channel Lookup View](images/Droid2_OTDR2.jpg)
