@@ -37,6 +37,15 @@ All features work offline and do not require an internet connection.
 #### ⚙️ Parameters View  
 ![Parameters View](images/Droid2_OTDR2.jpg)
 
+#### 🛠️ ToolKit View  
+
+![FiberCC View](images/Droid2_OTDR2.jpg)
+
+![LinkBudget View](images/Droid2_OTDR2.jpg)
+
+![Unit Converter View](images/Droid2_OTDR2.jpg)
+![DWDM Channel Lookup View](images/Droid2_OTDR2.jpg)
+
 ---
 
 ## 📥 Download APK
