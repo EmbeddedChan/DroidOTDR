@@ -25,7 +25,7 @@ All features work offline and do not require an internet connection.
 ## 📸 Screenshots
 
 #### 🖼️ Main View  
-![Main View](images/Droid2_OTDR1.jpg)
+![Main View](images/Screenshot_20250814_183019_DroidOTDR.jpg)
 
 ---
 
