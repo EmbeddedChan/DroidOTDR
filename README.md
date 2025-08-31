@@ -53,7 +53,7 @@ All features work offline and do not require an internet connection.
 
 You can download the latest version of the app below:
 
-👉 [Download DroidOTDR23.apk](https://github.com/EmbeddedChan/DroidOTDR/raw/main/apk/DroidOTDR23.apk)
+👉 [Download DroidOTDR24.apk](https://github.com/EmbeddedChan/DroidOTDR/raw/main/apk/DroidOTDR24.apk)
 
 This application does not request any permissions and does not collect, store, or share any user data.
 
