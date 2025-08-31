@@ -65,3 +65,27 @@ If you’d like to support this project, please check out the [DONATE.md](DONATE
 ## Contact
  
 If you have questions, suggestions, or feedback, feel free to contact: 📧 **didadi8088@proton.me**
+
+## Previous Versions:
+ 
+DroidOTDR 2.4.0:
+1. Added support for ribbon cables.
+2. Added fiber mapping functionality.
+
+DroidOTDR 2.3.0:
+1. Fiber Optic Cable Color Code Tool(Work in progress).
+2. DWDM Channel Lookup Tool .
+
+DroidOTDR 2.2.0:
+1. Added Optical Power Unit Converter.  
+2. Added Splitter Loss Calculator.  
+
+DroidOTDR 2.1.0:
+1. Added a new Optical Fiber Link Power Budget Tool.  
+2. Changed OTDR SOR Viewer events to icon display (PDF report export unchanged).  
+
+DroidOTDR 2.0.0:
+1. Added support for MSOR file format.  
+
+DroidOTDR 1.x.0:
+1. First release. Supports SOR 1.x and SOR 2.x file formats.
