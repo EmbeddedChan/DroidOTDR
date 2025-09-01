@@ -68,7 +68,7 @@ This application does not request any permissions and does not collect, store, o
 
 ## ☕ Support
 
-If you’d like to support this project, please check out the [DONATE.md](DONATE.md) page. 🙏
+If you’d like to support this App, please check out the [DONATE.md](DONATE.md) page. 🙏
 
 ## Contact
  
