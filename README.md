@@ -41,6 +41,8 @@ All features work offline and do not require an internet connection.
 
 ![FiberCC View](images/Screenshot_20250825_194531_DroidOTDR.jpg)
 ![FiberCCs View](images/Screenshot_20250825_194611_DroidOTDR.jpg)
+![FiberCCs View](images/Screenshot_20250831_193004_DroidOTDR.jpg)
+
 
 ![LinkBudget View](images/Screenshot_20250814_182056_DroidOTDR.jpg)
 
