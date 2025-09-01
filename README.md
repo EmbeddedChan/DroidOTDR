@@ -13,7 +13,7 @@ The DroidOTDR ToolKit currently includes the following tools:
 
 All features work offline and do not require an internet connection.
 
-The video below shows how to use the new features.
+The video below shows how to use the features.
 
 https://youtu.be/Ul7_N1yIoPw?si=M9ZZOXFb33kufi4I
 
