@@ -1,5 +1,5 @@
 # DroidOTDR
-DroidOTDR is an optical communication toolbox.
+DroidOTDR is an Android optical communication toolbox.
 
 The main function is an OTDR SOR file parser and PDF report generator.
 It also integrates a toolbox, which currently includes the following optical communication tools, with more features under development.
