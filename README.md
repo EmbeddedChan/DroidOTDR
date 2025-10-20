@@ -6,7 +6,7 @@ It also integrates a toolbox, which currently includes the following optical com
 
 The DroidOTDR ToolKit currently includes the following tools:
 
-1. Fiber Optic Cable Color Code Tool(Work in progress)
+1. Fiber Optic Cable Color Code Tool
 2. Optical Fiber Link Optical Power Budget Tool
 3. Power Unit Converter and Splitter Loss Calculator.
 4. DWDM Channel Lookup Tool
