@@ -1,4 +1,23 @@
 # DroidOTDR
+
+
+# DroidOTDR
+
+⚠️ **This project is no longer maintained.**
+
+The **DroidOTDR** project is no longer being updated or maintained.
+
+Please use the new project instead:
+
+👉 **EC OTDR Viewer**  
+https://github.com/EmbeddedChan/otdr-sor-parser
+
+The new project includes improved SOR file parsing and ongoing development.
+
+---
+
+Thank you for your interest in this project.
+
 DroidOTDR is an Android optical communication toolbox.
 
 The main function is an OTDR SOR file parser and PDF report generator.
