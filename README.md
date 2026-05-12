@@ -9,7 +9,7 @@ The **DroidOTDR** project is no longer being updated or maintained.
 
 Please use the new project instead:
 
-👉 **EC OTDR Viewer**  
+👉 **EC-OpticKit**  
 https://github.com/EmbeddedChan/otdr-sor-viewer
 
 The new project includes improved SOR file parsing and ongoing development.
