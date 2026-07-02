@@ -9,10 +9,13 @@ The **DroidOTDR** project is no longer being updated or maintained.
 
 Please use the new project instead:
 
-👉 **EC-OpticKit**  
-https://github.com/EmbeddedChan/otdr-sor-viewer
+## 📥 Download
 
-The new project includes improved SOR file parsing and ongoing development.
+Last updated: 2026-06-20
+
+[Download EC-FusionKit-v1.13.3.apk](https://github.com/EmbeddedChan/EC-FusionKit/raw/main/apk/EC-FusionKit-v1.13.3.apk)
+
+
 
 ---
 
@@ -76,11 +79,7 @@ https://youtu.be/Ul7_N1yIoPw?si=M9ZZOXFb33kufi4I
 
 ---
 
-## 📥 Download APK
 
-You can download the latest version of the app below:
-
-👉 [Download DroidOTDR24.apk](https://github.com/EmbeddedChan/DroidOTDR/raw/main/apk/DroidOTDR24.apk)
 
 This application does not request any permissions and does not collect, store, or share any user data.
 
