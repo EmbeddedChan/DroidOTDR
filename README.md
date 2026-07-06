@@ -8,6 +8,7 @@
 The **DroidOTDR** project is no longer being updated or maintained.
 
 Please use the new project instead:
+https://github.com/EmbeddedChan/otdr-sor-viewer
 
 ## 📥 Download
 
