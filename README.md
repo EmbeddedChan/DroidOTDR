@@ -11,10 +11,9 @@ Please use the new project instead:
 
 ## 📥 Download
 
-Last updated: 2026-06-20
+Last updated: 2026-07-06
 
-[Download EC-FusionKit-v1.13.3.apk](https://github.com/EmbeddedChan/EC-FusionKit/raw/main/apk/EC-FusionKit-v1.13.3.apk)
-
+[Download EC-FusionKit-v1.13.4.apk](https://github.com/EmbeddedChan/EC-FusionKit/raw/main/apk/EC-FusionKit.apk)
 
 
 ---
@@ -36,8 +35,6 @@ The DroidOTDR ToolKit currently includes the following tools:
 All features work offline and do not require an internet connection.
 
 The video below shows how to use the features.
-
-https://youtu.be/Ul7_N1yIoPw?si=M9ZZOXFb33kufi4I
 
 
 
