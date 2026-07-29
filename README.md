@@ -10,13 +10,6 @@ The **DroidOTDR** project is no longer being updated or maintained.
 Please use the new project instead:
 https://github.com/EmbeddedChan/otdr-sor-viewer
 
-## 📥 Download
-
-Last updated: 2026-07-06
-
-[Download EC-FusionKit-v1.13.4.apk](https://github.com/EmbeddedChan/EC-FusionKit/raw/main/apk/EC-FusionKit.apk)
-
-
 ---
 
 Thank you for your interest in this project.
