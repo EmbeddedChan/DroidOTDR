@@ -75,13 +75,7 @@ The video below shows how to use the features.
 This application does not request any permissions and does not collect, store, or share any user data.
 
 
-## ☕ Support
 
-If you’d like to support this App, please check out the [DONATE.md](DONATE.md) page. 🙏
-
-## Contact
- 
-If you have questions, suggestions, or feedback, feel free to contact: 📧 **didadi8088@proton.me**
 
 ## Previous Versions:
  
